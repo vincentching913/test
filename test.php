@@ -1,4 +1,4 @@
 <?php
-	echo "test";
+	echo "tet";
 ?>
 Something is wrong with the XAMPP installation :-(
